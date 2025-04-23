@@ -1,0 +1,51 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("man.jpg");
+    background-size: cover;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid white;
+    padding: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 550px;
+    color: white;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+input{
+    padding: 5px;
+    border-radius: 6px;
+}
+button{
+    width: 70px;
+    margin-left: 50px;
+    padding: 4px;
+    border-radius: 6px;
+}
+.database{
+    border: 1px solid white;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    border: 1px solid white;
+    padding: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    min-height: 180px;
+    overflow: scroll;
+}
