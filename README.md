@@ -1,1 +1,1 @@
-# simple-todo-list
+# simple-todo-list you go just on simple login page and input in name and password and click the login or click button and you show inside your (your detail) box ..
